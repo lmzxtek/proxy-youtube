@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://www.youtube.com/$1"}
+    {"source": "/(.*)", "destination": "https://youtube.com/$1"}
   ]
 }
